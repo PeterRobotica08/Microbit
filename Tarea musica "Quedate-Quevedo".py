@@ -2,6 +2,6 @@
 from microbit import *
 import music
 
-notas = ['g5:9','f5:3','f5:5','f5:3','f5:3','g5:3','f5:3','e5:3','d5:3','f5:9']
+notas = ['g5:8','f5:2','f5:4','f5:2','f5:2','g5:2','f5:2','e5:2','d5:2','f5:8']
 
 music.play(notas)
